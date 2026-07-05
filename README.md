@@ -35,19 +35,6 @@ Este projeto foi desenvolvido utilizando recursos nativos do Excel, como tabelas
 
 ---
 
-## 📷 Demonstração
-
-> *Adicione aqui capturas de tela da calculadora.*
-
-Exemplo:
-
-* Tela inicial;
-* Tabela de medições;
-* Painel de resultados;
-* Exemplo de uma avaliação concluída.
-
----
-
 ## 📐 Metodologia
 
 O cálculo do IBUTG Médio é realizado utilizando a média ponderada pelo tempo de exposição:
